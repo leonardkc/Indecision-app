@@ -9,7 +9,7 @@ console.log('App.js is running!');
 var app = {
     title: 'Indecision App',
     subtitle: 'Put your Life in the hands of a computer',
-    options: ['One', 'Two', 'Three']
+    options: ['One', 'Two']
 };
 var template = ( 
     <div>
